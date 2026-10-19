@@ -248,12 +248,9 @@ This project helped me practice and understand:
 ## License
 
 This project is for learning and portfolio purposes.
-```
 
-### Project Overview
+## Project Overview
 
-**TaskFlow** is designed as a simple task management application where users can create and manage tasks and organize larger tasks into smaller subtasks.
+**Productivity Management System** is a full-stack web application that allows users to organize their work into smaller subtasks.
 
-The project follows a separated frontend/backend architecture and uses RESTful APIs for communication between the client and server.
-
-This version is intentionally **not over-engineered** and matches what you've actually built. As you finish the remaining subtask features, we can update the README and add **screenshots, live demo, API documentation, and a proper project preview** to make it stronger for your GitHub portfolio.
+The project uses a separate frontend and backend architecture, with RESTful APIs handling communication between the client and server.
